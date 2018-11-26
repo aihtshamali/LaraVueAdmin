@@ -29,8 +29,9 @@ php artisan key:generate
 '''
 Here are the things that I'm going to in this series and what the repo will include out of the box at the end:
 '''
-Markup : * Vue Router with Laravel
-Markup : * Installed AdminLTE 3
+
+ : * Vue Router with Laravel
+ * Installed AdminLTE 3
 Markup : * Used Font Awesome 5 on Laravel
 Markup : * Integrate mailchimp with laravel
 Markup : * Used Laravel Socialite
